@@ -2,7 +2,7 @@
 
 [Link to Deliverable 1-4 code](crypto_clustering.ipynb)
 
-[Link to coin data used in this analysis] (https://min-api.cryptocompare.com/data/all/coinlist)
+[Link to Coin Data] (https://min-api.cryptocompare.com/data/all/coinlist)
 
 ## Cryptocurrency Analysis
 
